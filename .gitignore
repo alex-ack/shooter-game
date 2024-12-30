@@ -1,0 +1,54 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+space_shooter
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE specific files
+.vscode/
+*.swp
+*.swo
+*~
+
+# SFML specific
+*.dll
+*.dylib
+*.so
+
+# Dependencies
+lib/
+bin/
+
+# Project specific
+# Add any additional files/folders specific to your project
+sprite_originals/
+design_docs/
